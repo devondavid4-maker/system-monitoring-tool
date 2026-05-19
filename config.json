@@ -1,0 +1,15 @@
+{
+  "cpu_threshold": 80,
+  "memory_threshold": 80,
+  "disk_threshold": 90,
+  "check_interval": 10,
+
+  "email": {
+    "enabled": false,
+    "sender": "your_email@gmail.com",
+    "password": "YOUR_APP_PASSWORD",
+    "receiver": "your_email@gmail.com",
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 587
+  }
+}
