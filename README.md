@@ -38,3 +38,5 @@ If thresholds are exceeded:
 - Optional email notifications are sent
 
 This simulates real-world monitoring and incident response workflows.
+
+Add production-style monitoring tool with config and alerting
