@@ -29,3 +29,12 @@ JSON configuration
 Purpose
 
 Built to demonstrate proactive monitoring, automation, and support engineering concepts in production-like environments.
+
+## How It Works
+The script continuously monitors system resources and compares them against configurable thresholds.  
+If thresholds are exceeded:
+- Alerts are triggered
+- Events are logged
+- Optional email notifications are sent
+
+This simulates real-world monitoring and incident response workflows.
